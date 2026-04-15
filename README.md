@@ -1,2 +1,2 @@
 # Technical-Writing-Portfolio
-My newbie technical writing projects. Adding to it as I learn more. Let's go!
+I combine technical writing, editorial expertise, and web development skills to create clear, user-friendly documentation. With a background in publishing and project management, I bring experience in content structuring, editing, and delivering high-quality work within deadlines. I am transitioning into technical communication, developing skills in docs-as-code, API documentation, and tools such as Markdown, Git/GitHub, and MkDocs. I am also expanding into UX writing and knowledge base design, with a focus on clarity, usability, and structured information.
